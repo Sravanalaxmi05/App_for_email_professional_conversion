@@ -11,7 +11,7 @@ import os
 
 #pip install --upgrade pip
 
-!pip install streamlit
+pip install streamlit
 
 import streamlit as st
 
