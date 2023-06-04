@@ -101,5 +101,5 @@ if email_input:
 
     formatted_email = llm(prompt_with_email)
 
-    st.write(formatted_email)
+    st.write(formatted_email) 
 
