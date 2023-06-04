@@ -9,8 +9,6 @@ Original file is located at
 
 import os
 
-!pip install steamlit
-
 pip install --upgrade pip
 
 !pip install streamlit
