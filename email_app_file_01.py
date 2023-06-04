@@ -9,7 +9,7 @@ Original file is located at
 
 import os
 
-pip install --upgrade pip
+#pip install --upgrade pip
 
 !pip install streamlit
 
